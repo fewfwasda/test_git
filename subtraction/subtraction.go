@@ -1,5 +1,5 @@
 package subtraction
 
-func subtraction(a, b int) int {
+func Subtraction(a, b int) int {
 	return a - b
 }
